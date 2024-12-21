@@ -1,0 +1,6 @@
+__pycache__
+api-over-k8s-venv
+bin
+include
+lib*
+pyvenv.cfg
